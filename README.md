@@ -33,14 +33,12 @@
 
 ### 🌍 Onde me encontrar
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/kayke-ribeiro-3915391a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEUEMAIL@exemplo.com">
+  <a href="mailto:kaykedasilva.2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
-
-✨ Obrigado por visitar meu perfil! Sempre aberto a colaborações e novas oportunidades.
